@@ -25,3 +25,4 @@ exports.deleteAll = (req, res) => {
 exports.findAllFavourite = (req, res) => {
     return res.send({ message: 'findAllFavourite handler' });
 };
+
